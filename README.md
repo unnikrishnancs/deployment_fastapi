@@ -1,5 +1,5 @@
 # deployment_fastapi
-Deploying ML models using FastApi
+Deploying ML / machine learning models using FastApi
 
 This simple project shows how to deploy your machine learning model using FastAPI framework.
 
